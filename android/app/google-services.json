@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402702030710",
+    "project_id": "techstartup-outfly",
+    "storage_bucket": "techstartup-outfly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402702030710:android:2fa5d017f410feed358c57",
+        "android_client_info": {
+          "package_name": "np.com.subediabishek.outfly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1G2CBsu77YX8mDKLfuOlaCoKc-0Q8LgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
