@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:outfly/widgets/custom_scaffold.dart';
 
 class ForgetPasswordScreen extends StatefulWidget {
   const ForgetPasswordScreen({super.key});
@@ -10,6 +11,8 @@ class ForgetPasswordScreen extends StatefulWidget {
 class _ForgetPasswordScreenState extends State<ForgetPasswordScreen> {
   @override
   Widget build(BuildContext context) {
-    return const Text('ForgetPasswordScreen');
+    return const CustomScaffold(
+      child: Text("Forget Password"),
+    );
   }
 }

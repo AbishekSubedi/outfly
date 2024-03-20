@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:outfly/screens/login_screen.dart';
 import 'package:outfly/screens/registration_screen.dart';
 import 'package:outfly/theme/theme.dart';
