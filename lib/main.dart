@@ -3,6 +3,7 @@ import 'package:outfly/screens/welcome_screen.dart';
 import 'package:outfly/theme/theme.dart';
 
 void main() {
+  WidgetsFlutterBinding.ensureInitialized();
   runApp(const MyApp());
 }
 
